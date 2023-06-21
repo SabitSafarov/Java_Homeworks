@@ -1,0 +1,39 @@
+{
+  "address": {
+    "zipcode": "10101011010",
+    "city": "New York",
+    "street": "17 Brooklyn St",
+    "state": "NY"
+  },
+  "age": 21,
+  "email": "johndoe@example.com",
+  "friends": [
+    {
+      "name": "Alice",
+      "age": 28,
+      "email": "alice@example.com"
+    },
+    {
+      "name": "Mason",
+      "age": 23,
+      "email": "mason@example.com"
+    }
+  ],
+  "isPremium": false,
+  "name": "Reece James",
+  "phoneNumbers": [
+    {
+      "number": "777-5678",
+      "type": "home"
+    },
+    {
+      "number": "555-5678",
+      "type": "work"
+    }
+  ],
+  "tags": [
+    "java",
+    "json",
+    "task"
+  ]
+}

@@ -1,0 +1,22 @@
+Name: John Doe
+Age: 30
+Email: johndoe@example.com
+Address: [
+Street: 123 Main St, 
+City: New York, 
+State: NY, 
+Zipcode: 10001]
+Phone Numbers: [
+{type: home
+number: 555-1234}, 
+{type: work
+number: 555-5678}]
+isPremium: true
+Tags: [java, json, task]
+Friends: [
+{Name: Alice
+Age: 28
+Email: alice@example.com}, 
+{Name: Bob
+Age: 32
+Email: bob@example.com}]

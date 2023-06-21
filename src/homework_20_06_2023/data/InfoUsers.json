@@ -1,0 +1,35 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "johndoe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "10001"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "555-1234"
+    },
+    {
+      "type": "work",
+      "number": "555-5678"
+    }
+  ],
+  "isPremium": true,
+  "tags": ["java", "json", "example"],
+  "friends": [
+    {
+      "name": "Alice",
+      "age": 28,
+      "email": "alice@example.com"
+    },
+    {
+      "name": "Bob",
+      "age": 32,
+      "email": "bob@example.com"
+    }
+  ]
+}
