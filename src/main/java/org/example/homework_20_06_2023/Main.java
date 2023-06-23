@@ -1,4 +1,4 @@
-package homework_20_06_2023;
+package main.java.org.example.homework_20_06_2023;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

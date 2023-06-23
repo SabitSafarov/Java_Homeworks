@@ -1,4 +1,4 @@
-package homework_13_06_2023;
+package main.java.org.example.homework_13_06_2023;
 
 import java.io.File;
 import java.io.FileNotFoundException;

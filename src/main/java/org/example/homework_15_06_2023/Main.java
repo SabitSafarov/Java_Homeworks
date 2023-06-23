@@ -1,4 +1,4 @@
-package homework_15_06_2023;
+package main.java.org.example.homework_15_06_2023;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
